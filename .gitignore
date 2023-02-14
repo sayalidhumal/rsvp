@@ -1,0 +1,13 @@
+.settings
+.project
+.classpath
+target/
+test-output/
+node_modules/**
+.orig
+.factorypath
+.mvn/
+bin/
+mvnw
+mvnw.cmd
+*README.md
